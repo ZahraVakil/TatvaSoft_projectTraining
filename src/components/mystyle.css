@@ -1,0 +1,10 @@
+.title{
+    color:blueviolet;
+    font-size: larger;
+}
+
+.desc{
+    color: cornflowerblue;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
